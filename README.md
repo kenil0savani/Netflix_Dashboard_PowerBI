@@ -4,12 +4,12 @@ Data Processing: Utilized DAX queries and Power BI's Query Editor to clean, tran
 Visualizations: Created multiple interactive charts and graphs to display:
 ![Screenshot 2024-08-31 183020](https://github.com/user-attachments/assets/7d1c30f6-d4f2-4f7e-80b3-c8b4913f7db8)
 
- Ratings-wise distribution of Netflix content.\n
- Vote counts associated with each movie or show.
+Ratings-wise distribution of Netflix content.
+Vote counts associated with each movie or show.
  ![Movies](https://github.com/user-attachments/assets/d8a44c82-062c-4193-a575-27bbb514d1c4)
  ![TV Shows](https://github.com/user-attachments/assets/6d1983a6-a18b-44b9-a856-29fb579ead1c)
  
- Breakdown of movies and TV shows by country of origin.
+Breakdown of movies and TV shows by country of origin.
  ![By Country](https://github.com/user-attachments/assets/05d58271-30b2-4c37-bcd4-1654806170e9)
 
 Search Functionality: Implemented a search feature allowing users to quickly find specific movies or shows and view their details, including description, ratings, and vote 
