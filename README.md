@@ -4,8 +4,7 @@ Data Processing: Utilized DAX queries and Power BI's Query Editor to clean, tran
 Visualizations: Created multiple interactive charts and graphs to display:
 ![Screenshot 2024-08-31 183020](https://github.com/user-attachments/assets/7d1c30f6-d4f2-4f7e-80b3-c8b4913f7db8)
 
- Ratings-wise distribution of Netflix content.
- 
+ Ratings-wise distribution of Netflix content.\n
  Vote counts associated with each movie or show.
  ![Movies](https://github.com/user-attachments/assets/d8a44c82-062c-4193-a575-27bbb514d1c4)
  ![TV Shows](https://github.com/user-attachments/assets/6d1983a6-a18b-44b9-a856-29fb579ead1c)
