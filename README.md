@@ -6,11 +6,13 @@ Visualizations: Created multiple interactive charts and graphs to display:
 
 Ratings-wise distribution of Netflix content.
 Vote counts associated with each movie or show.
- ![Movies](https://github.com/user-attachments/assets/d8a44c82-062c-4193-a575-27bbb514d1c4)
- ![TV Shows](https://github.com/user-attachments/assets/6d1983a6-a18b-44b9-a856-29fb579ead1c)
+ ![Movies](https://github.com/user-attachments/assets/85fc4c81-3a95-4e40-b06f-d4ae734b3e9f)
+ ![TV Shows](https://github.com/user-attachments/assets/0d05017f-45c7-416c-9172-dc0f00531733)
+
  
 Breakdown of movies and TV shows by country of origin.
- ![By Country](https://github.com/user-attachments/assets/05d58271-30b2-4c37-bcd4-1654806170e9)
+ ![By Country](https://github.com/user-attachments/assets/c91cdd65-7ff4-4876-8f3f-dae5c989b679)
+
 
 Search Functionality: Implemented a search feature allowing users to quickly find specific movies or shows and view their details, including description, ratings, and vote 
  counts.
